@@ -2,9 +2,7 @@ import java.util.Scanner;
 
 public class Aluno {
     public static void main(String[] args) {
-
         Scanner notas = new Scanner(System.in);
-
         double resultadoFinal = 0;
 
         System.out.println("Digite a primeira nota:");
